@@ -1,0 +1,13 @@
+./terraform.*
+
+*.iml
+#terraform.*
+#.terraform.*
+*.xml
+
+terraform-provider*
+LICENSE
+CHANGELOG.md
+
+.terraform/*
+.venv
